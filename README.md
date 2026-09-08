@@ -38,6 +38,6 @@ Para validar o funcionamento da topologia, foram realizados testes de `ping` ent
 ---
 
 ## 📂 Como executar este projeto
-1. Baixe o arquivo `.pkt` disponibilizado neste repositório.
+1. Baixe o arquivo do projeto [`cisco-3router-wan-topology.pkt`](./cisco-3router-wan-topology.pkt).
 2. Abra o **Cisco Packet Tracer**.
 3. Carregue o projeto e realize testes de envio de pacotes ICMP (ping) no Command Prompt dos Laptops.
